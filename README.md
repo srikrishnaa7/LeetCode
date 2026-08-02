@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/srikrishnaa7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/srikrishnaa7/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
