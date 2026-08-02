@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/srikrishnaa7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/srikrishnaa7/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/srikrishnaa7/LeetCode/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/srikrishnaa7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishnaa7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/srikrishnaa7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srikrishnaa7/LeetCode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srikrishnaa7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srikrishnaa7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
