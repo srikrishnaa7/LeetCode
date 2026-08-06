@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/srikrishnaa7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/srikrishnaa7/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/srikrishnaa7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/srikrishnaa7/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/srikrishnaa7/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/srikrishnaa7/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/srikrishnaa7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/srikrishnaa7/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Database
 |  |
 | ------- |
